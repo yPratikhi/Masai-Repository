@@ -1,0 +1,59 @@
+ DAY-4
+ 
+ -1- You have to define default method and default variable.. and try to 
+       access the same methods in a different package (2 classes and 2 different packages).
+   file:   >package01>class1
+             >package02>class2
+>the default value can't access in a diff package. but we can access with the 
+
+
+-2-WAP to define User defined constructor and default constructor, insitialize variables for the Masai
+     >hw4>Masai.class
+     
+-3- WAP to demo this keyword inside a constructor, in a new class.
+      >hw4>Amazon.class
+      
+-4-WAP to implement method overloading for 
+     addition, subtraction , multiplication, division , mod operation . Write these 5 classes seperately.
+    >hw4>addOverloading
+    >hw4>sub2Overloading 
+    >hw4>mulOverloading 
+    >hw4>divOverloading 
+    >hw4>modOverloading 
+    
+ -5-WAP to demonstrate Single level Inheritance,
+       create parent class and a child class,(You can create main method in a different or in the child class)   
+       >inheritance2
+       
+       
+  DAY 5
+  
+-Multilevel Inheritance
+>multilevel>Apple.class>macintosh.class>VisionPro.class>Test.java    
+    
+- Hierarachical
+>hierarachical 
+
+-Multiple Inheritance.
+>Multiple
+
+Overriding
+>overriding>Windows.class>Windows11.class
+
+HW5
+--Assignment 1-  Try to implement Multiple inheritance through classes and observe the error message(Diamond problem)
+--Assignment 2 - Implement Hybrid Inheritance - Class A,B,C,D , Multi level Inheritance in A,B,C and A,B,D.
+>multilevel2>
+--Assignment 3 - Implement Hybrid Inheritance - Class A,b,C,D , Hierarchiral in B,C,D and multilevel in A,B,C and A,B,D.
+>hybride1
+
+DAY6
+Getter and Setter
+>encapsulation 
+
+HW6
+-Assignment 1 - Write 3 programs with 3 different examples for Encapsulation - Aadhar, SImcardDetails, EmployeeData
+>encapsulation 
+
+-Assignment 2 - WAP to define a string s ="joker123124)(*(&*(&*&" , Separate numbers, alphabets and special characters.
+>stringSeparater
